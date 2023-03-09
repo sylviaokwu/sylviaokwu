@@ -7,10 +7,10 @@ I'm a Software Engineer and a  Data Analyst. I'm passionate about sharing knowle
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Html, CSS, JavaScript, and Nodejs.
+- 💡 Fun fact: I'm currently exploring Data Engineer
+- 🌱 I’m currently building on Python, SQL, Spreadsheet, PowerBI and Tableau
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
+- 💼 Job interests: Data Analyst, Business Intelligence, Analyst (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1FO98ERx8_Q5f4gvjpRYay32pwbVcSgTWfJwW29rTrpQ/edit?usp=sharing) and contact me by emailing sylviaokwu@gmail.com.
 
 ---
