@@ -15,5 +15,5 @@ I'm a Software Engineer and a  Data Analyst. I'm passionate about sharing knowle
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sylviaokwu&show_icons=true&include_all_commits=true&hide_border=true" alt="Sylvia's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritasylvia&langs_count=8&layout=compact&hide_border=true" alt="Sylvia's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sylviaokwu&show_icons=true&include_all_commits=true&hide_border=true" alt="Sylvia's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylviaokwu&langs_count=8&layout=compact&hide_border=true" alt="Sylvia's GitHub stats" /> |
 | ------------- | ------------- |
