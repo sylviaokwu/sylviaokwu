@@ -7,7 +7,7 @@ I'm a Data Analyst. I'm passionate about sharing knowledge, documentation, and o
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently exploring Data Engineer
+- 💡 Fun fact: I'm currently exploring Data Engineering
 - 🌱 I’m currently building on Python, SQL, Spreadsheet, PowerBI and Tableau
 - 📫 You can [view my resume](https://docs.google.com/document/d/1FO98ERx8_Q5f4gvjpRYay32pwbVcSgTWfJwW29rTrpQ/edit?usp=sharing) and contact me by emailing sylviaokwu@gmail.com.
 
